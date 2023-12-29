@@ -1,0 +1,20 @@
+.bg-redor{
+    background-color: #ff4500;
+}
+
+.text-redor{
+    color: #ff4500;
+}
+
+.login,.signup{
+    max-width: 700px !important;
+    /* margin: auto; */
+    /* width: 20px !important; */
+}
+
+.btn:hover{
+    /* width: 200px !important;
+    background-color: aqua !important; */
+    background-color: #ff4500 !important;
+    opacity: 0.8 !important;
+}
